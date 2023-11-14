@@ -1,0 +1,3 @@
+NhanSu{maNhanSu=NS1, chucDanh=Trưởng phòng, tenPhongBan=Tài chính, hoTen=Trần Văn A, diaChi=Hà Nam, gioiTinh=Nam, email=abc1@gmail.com, soDT=08818818, ngaySinh=17/01/2002}
+NhanSu{maNhanSu=NS2, chucDanh=Nhân viên, tenPhongBan=Nhân sự, hoTen=Nguyễn Thị C, diaChi=Hà Nội, gioiTinh=Nam, email=abc1@gmail.com, soDT=08818818, ngaySinh=17/01/2002}
+NhanSu{maNhanSu=NS3, chucDanh=Phó phòng, tenPhongBan=Marketing, hoTen=Lê Văn Nam, diaChi=Thái Bình, gioiTinh=Nam, email=abc1@gmail.com, soDT=0979892910, ngaySinh=17/01/2002}

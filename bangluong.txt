@@ -1,0 +1,1 @@
+BangLuong{maBangLuong=Bùi Việt Hoàng, tenNhanSu=a12, tenPhongBan=cntt, soNgayLam=27, heSoLuong=5.0, thuong=500.0, phat=500.0, thuclinh=135.0, ghiChu=ko}

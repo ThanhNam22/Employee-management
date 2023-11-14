@@ -1,0 +1,3 @@
+PhongBan{maPhongban=PB01, tenPhongBan=Tài chính, soNhanVien=10, viTri=701-A1, moTa=Mở cửa lúc 7h}
+PhongBan{maPhongban=PB02, tenPhongBan=Quản lý chất lượng, soNhanVien=30, viTri=802-A1, moTa=Mở cửa lúc 7h}
+PhongBan{maPhongban=PB01, tenPhongBan=Khoa CNTT, soNhanVien=5, viTri=601-A1, moTa=Mở cửa lúc 7h}
